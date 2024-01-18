@@ -1,0 +1,63 @@
+﻿  main.cpp
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(151,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(152,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(156,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(157,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(183,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(184,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(188,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(189,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(190,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(191,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(218,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(219,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(222,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(223,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(872,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(872,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(872,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(873,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(873,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(875,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(875,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(877,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(877,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(879,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(883,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(883,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(883,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(883,109): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(884,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(886,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(886,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(888,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(888,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(888,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(888,111): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(890,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(890,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(895,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(895,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(895,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(898,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(898,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(900,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(900,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(902,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(902,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(904,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(906,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(910,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(910,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(910,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(910,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(911,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(913,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(913,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(915,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(915,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(917,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(919,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\COMP371\src\main.cpp(923,2): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  COMP371.vcxproj -> C:\Users\hrich\OneDrive\Documents\COMP371Quiz2\COMP371S2-A2-master\x64\Debug\COMP371.exe
